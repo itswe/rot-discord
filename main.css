@@ -9133,3 +9133,7 @@ border: 0.5px solid var(--Main-Colour) !important;
 .fullScreen-3DKbL8{
   background: url(https://i.imgur.com/1uIcwYm.png) 50% 50%/cover !important;
 }
+
+.image-33JSyf, .wrapper-2F3Zv8 {
+    border-radius: 50%;
+}
