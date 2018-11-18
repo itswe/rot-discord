@@ -5861,45 +5861,7 @@ a[href="https://github.com/hammy1/BDPlugins"]:after {
 /* User Status 2 */
 
 /* User Status 3 */
-/* DND */
-.dnd-1_xrcq:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
-  width: 114%!important;
-  height: 114%!important;
-  box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
-  border: 2.5px solid #f04747!important;
-  border-radius: 5px !important;
-  background:none;
-  opacity: 1 !important;
-  animation: Dnd 3s linear infinite !important;
-}
-/* ONLINE */
-.online-2S838R:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
-  width: 114%!important;
-  height: 114%!important;
-  box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
-  border: 2.5px solid #43b581!important;
-  border-radius: 5px !important;
-  background:none;
-  opacity: 1 !important;
-  animation: Online 3s linear infinite !important;
-}
-/* AWAY */
-.idle-3DEnRT:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
-  width: 114%!important;
-  height: 114%!important;
-  box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
-  border: 2.5px solid #faa61a!important;
-  border-radius: 5px !important;
-  background:none;
-  opacity: 1 !important;
-  animation: Away 3s linear infinite !important;
-}
+
 /* STREAM */
 .streaming-2_dnHe:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
   width: 114%!important;
