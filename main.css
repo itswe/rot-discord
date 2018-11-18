@@ -1947,10 +1947,12 @@ spinner-pulsing-ellipsis .spinner-item {
 
 .buttonDisconnect-3W_SJc {
   background-image:url(/assets/1ac919360611a8962ea15859f6c27d9c.svg);
+  color: var(--M-Colour);
 }
 
 .buttonInfo-3nkbOt {
   background-image:url(/assets/9ff6ceb7abcc4920dd468c954f12685b.svg);
+  color: var(--M-Colour);
 }
 
 .icon-3rMtHF {
