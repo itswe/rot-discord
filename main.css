@@ -6551,7 +6551,6 @@ a[href="https://github.com/hammy1/BDPlugins"]:after {
   display: block;
   left: 53px;
   top: 1px;
-  background: linear-gradient(to right, transparent, var(--S-Colour), var(--Notification-Colour), var(--S-Colour), transparent);
   animation: shakeUnread 2s ease-in-out infinite alternate;
 }
 
