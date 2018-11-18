@@ -9136,3 +9136,8 @@ border: 0.5px solid var(--Main-Colour) !important;
 	border-radius: 50%;
 }
 
+menu-Sp6bN1 {
+    border-radius: 5px;
+    overflow: hidden;
+    width: 216px;
+}
