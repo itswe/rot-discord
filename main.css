@@ -9137,3 +9137,16 @@ border: 0.5px solid var(--Main-Colour) !important;
 .image-33JSyf, .wrapper-2F3Zv8 {
     border-radius: 50%;
 }
+
+.dnd-1_xrcq:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
+	border-radius: 50%;
+}
+
+.online-2S838R:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
+	border-radius: 50%;
+}
+
+.idle-3DEnRT:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
+	border-radius: 50%;
+}
+
