@@ -5867,7 +5867,7 @@ a[href="https://github.com/hammy1/BDPlugins"]:after {
   top: -6.3%!important;
   left: -6.3%!important;
   border: 2.5px solid #747f8d!important;
-  border-radius: 5px !important;
+  border-radius: 50% !important;
   background: none;
   opacity: 1 !important;
   animation: Offline 3s linear infinite !important;
@@ -7374,8 +7374,8 @@ color: var(--Main-Colour)!important;
 }
 
 .large-3ChYtB {
-  height: 32px!important;
-  width: 32px!important;
+  height: 40px!important;
+  width: 40px!important;
 }
 
 .theme-dark .desc-2Dttbk {
